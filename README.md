@@ -28,7 +28,7 @@ I treat technical performance as a primary source.
 * **Quantified Signal:** Focusing on high-impact metrics (Battery, RAM, Latency).
 
 ## 🎓 Credentials
-* **Aspire Leaders Fellow (2024):** Selected from 15,000+ global applicants for Harvard-founded leadership training.
+* **Aspire Leaders Fellow (2026):** Selected from 15,000+ global applicants for Harvard-founded leadership training.
 * **History Honors:** Specialized in structural analysis and evidence verification.
 
 [LinkedIn](www.linkedin.com/in/
